@@ -1,0 +1,50 @@
+
+#sec-carousel {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    color: white;
+	padding: 10 60px
+		
+}
+/* CSS Document */
+.carousel-caption{
+    padding-top: 0px;
+	padding-bottom: 300px
+}
+
+#sec-about{ 
+	text-align: center;
+	color: #fff;
+}
+
+#sec-about h3{
+	color: #000000
+}
+
+#sec-about article{
+	background: #494949;
+	padding: 20px 5px 30px;
+	margin: 5px
+
+}
+
+#sec-about i{
+	background: #FE8F01;
+	font-size: 40px;
+	padding: 25px;
+	border: 3px solid #fff;
+	border-radius: 100px
+}
+
+#sec-counter{
+	background: #010101;
+	color: #fff;
+	text-align: center;
+	padding-: 0px 0px
+}
+
+#sec-counter article{
+	padding: 0px 10px
+}
